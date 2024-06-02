@@ -1,0 +1,8 @@
+ How to Play:
+ - move the boat using the keyboard
+ - If the user catches the parachutist s/he gets 10 points
+ - If the parachutists falls to the water, the user loses 1 live
+   point (starting from 3) and if s/he loses all life points the
+   game ends.
+ - There can be more than one parachutist at the air at a given
+time
